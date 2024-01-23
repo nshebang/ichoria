@@ -1,0 +1,56 @@
+Política de privacidad de Ichoria★xyz
+===
+
+Última modificación: 21/ene/2024
+
+	Al interactuar con los servicios que el proyecto ichoria.xyz provee,
+es posible que se recopile información sobre ti. Intentamos sólo guardar la
+información mínima requerida para mantener nuestros servicios en correcto
+funcionamiento.
+
+Ichoria.xyz
+---
+Al visitar ichoria.xyz o cualquier subdominio se recopila automáticamente la
+siguiente información:
+
+* Fecha, hora y tipo de tus solicitudes.
+
+
+Ichoria BBS
+---
+Al postear en bbs.ichoria.xyz recopilamos la siguiente información:
+
+* Dirección IP y todo el contenido que conscientemente decidas compartir en
+tus posts.
+
+Al ser baneado de nuestro servicio de BBS, la siguiente información es 
+recopilada:
+
+* Dirección IP sancionada
+* Información general sobre el baneo (fecha y hora, motivo, etc.)
+
+Los datos recopilados a través de nuestro servicio de BBS durarán tanto tiempo
+como los posts enviados por el usuario o sus baneos duren activos.
+
+
+Servicios de terceros
+---
+Ichoria.xyz usa Cloudflare como sistema anti DDoS y DNS. Los datos que pasen
+por los servidores de Cloudflare serán procesados conforme a la política de
+privacidad de dicha compañía (https://www.cloudflare.com/privacypolicy/)
+
+
+Protección de datos
+---
+Ichoria.xyz es un proyecto mayormente autónomo que emplea su propia
+infraestructura y hardware para mantener sus servicios. Los discos de nuestro
+servidor están totalmente encriptados y siempre se usa encriptación de
+extremo a extremo en las comunicaciones (incluyendo HTTP y SSL).
+
+
+Contacto
+---
+Es posible contactar a la administración a través de la siguiente
+dirección:
+admin@ichoria.xyz
+
