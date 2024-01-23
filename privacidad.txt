@@ -1,7 +1,7 @@
 Política de privacidad de Ichoria★xyz
 ===
 
-Última modificación: 21/ene/2024
+Última modificación: 22/ene/2024
 
 	Al interactuar con los servicios que el proyecto ichoria.xyz provee,
 es posible que se recopile información sobre ti. Intentamos sólo guardar la
@@ -10,8 +10,8 @@ funcionamiento.
 
 Ichoria.xyz
 ---
-Al visitar ichoria.xyz o cualquier subdominio se recopila automáticamente la
-siguiente información:
+Al visitar ichoria.xyz o cualquiera de sus subdominios, se recopila
+automáticamente la siguiente información:
 
 * Fecha, hora y tipo de tus solicitudes.
 
@@ -32,6 +32,15 @@ recopilada:
 Los datos recopilados a través de nuestro servicio de BBS durarán tanto tiempo
 como los posts enviados por el usuario o sus baneos duren activos.
 
+Sakisafe
+---
+Al subir archivos a través de nuestro servicio de alojamiento instantáneo,
+saki.ichoria.xyz, la siguiente información es registrada:
+
+* Dirección IP y ruta completa de los archivos que intentas subir.
+
+Para el servicio de Sakisafe, esos datos se mantendrán registrados por un tiempo
+indefinido.
 
 Servicios de terceros
 ---
