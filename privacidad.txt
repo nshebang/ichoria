@@ -1,7 +1,7 @@
 Política de privacidad de Ichoria★org
 ===
 
-Última modificación: 26/feb/2024
+Última modificación: 28/feb/2024
 
 	Al interactuar con los servicios que el proyecto ichoria.org provee,
 es posible que se recopile información sobre ti. Intentamos sólo guardar la
@@ -32,6 +32,28 @@ recopilada:
 
 Los datos recopilados a través de nuestro servicio de BBS durarán tanto tiempo
 como los posts enviados por el usuario o sus baneos duren activos.
+
+
+Ichoria Blogs
+---
+Ichoria Blogs o Ichoria.cc es el servicio de alojamiento de Ichoria.org, y por
+lo tanto se rige por esta política de privacidad. Al visitar el servicio de
+Ichoria Blogs o cualquier blog alojado en nuestros servidores por sus usuarios,
+se recopila automáticamente la siguiente información:
+
+* Fecha, hora y tipo de tus solicitudes.
+
+Al crear una cuenta de usuario y/o hacer uso de los servicios que Ichoria Blogs
+provee, se recopila cierta información adicional con el fin de proveer
+correctamente el servicio:
+
+* Dirección IP
+* Todo el contenido que el usuario decida compartir conscientemente a través
+de su blog
+* Huellas cifradas de las contraseñas (las contraseñas per se, no son ni
+deben ser nunca almacenadas en los servidores)
+* Opcionalmente, una dirección de correo electrónico para recuperar la
+contraseña. El usuario puede optar por no compartir este dato.
 
 
 Sakisafe
