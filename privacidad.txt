@@ -55,6 +55,10 @@ deben ser nunca almacenadas en los servidores)
 * Opcionalmente, una dirección de correo electrónico para recuperar la
 contraseña. El usuario puede optar por no compartir este dato.
 
+Ichoria Blogs es un servicio que requiere registro y como tal, el usuario
+tiene derecho a eliminar su cuenta y sus datos desde el menú de
+configuración si así lo desea.
+
 
 Sakisafe
 ---
@@ -69,16 +73,17 @@ indefinido.
 
 Servicios de terceros
 ---
-Ichoria.org usa Cloudflare como sistema anti DDoS y DNS. Los datos que pasen
-por los servidores de Cloudflare serán procesados conforme a la política de
-privacidad de dicha compañía (https://www.cloudflare.com/privacypolicy/)
+Ichoria.org e Ichoria.cc usan Cloudflare como sistema anti DDoS y DNS. Los
+datos que pasen por los servidores de Cloudflare serán procesados
+conforme a la política de privacidad de dicha compañía.
+(https://www.cloudflare.com/privacypolicy/)
 
 
 Protección de datos
 ---
-Ichoria.org es un proyecto mayormente autónomo que emplea su propia
-infraestructura y hardware para mantener sus servicios. Los discos de nuestro
-servidor están totalmente encriptados y siempre se usa encriptación de
+Ichoria★org es un proyecto mayormente autónomo que emplea su propia
+infraestructura y hardware para mantener sus servicios. Los discos de
+nuestro servidor están encriptados y siempre se usa encriptación de
 extremo a extremo en las comunicaciones (incluyendo HTTP y SSL).
 
 
