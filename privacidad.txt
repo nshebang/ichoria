@@ -1,7 +1,7 @@
 Política de privacidad de Ichoria★org
 ===
 
-Última modificación: 28/feb/2024
+Última modificación: 10/julio/2024
 
 	Al interactuar con los servicios que el proyecto ichoria.org provee,
 es posible que se recopile información sobre ti. Intentamos sólo guardar la
@@ -64,6 +64,19 @@ saki.ichoria.org, la siguiente información es registrada:
 
 Para el servicio de Sakisafe, esos datos se mantendrán registrados por un tiempo
 indefinido.
+
+
+Sobre la recopilación de IPs
+---
+Como es bien sabido, la mayoría de los servicios que ichoria provee son de 
+naturaleza anónima, eso es, cualquier persona puede participar sin exponer
+públicamente su identidad o siquiera usar un nombre. Cada usuario decide qué
+tanto contar a los demás sobre sí mismo. No obstante, cuando nuestros usuarios
+interactúan con los servicios, registramos como único dato persistente e
+identificable las direcciones IP con fines de mantener una moderación de
+contenido tan adecuada como sea posible, un óptimo funcionamiento de nuestro
+software multiusuario y unos estándares de calidad aceptables; así como disuadir
+a usuarios potencialmente maliciosos de llevar a cabo actividades perjuiciosas.
 
 
 Servicios de terceros
