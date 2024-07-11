@@ -34,30 +34,25 @@ Los datos recopilados a través de nuestro servicio de BBS durarán tanto tiempo
 como los posts enviados por el usuario o sus baneos duren activos.
 
 
-Ichoria Blogs
+Ichoria chat
 ---
-Ichoria Blogs o Ichoria.cc es el servicio de alojamiento de Ichoria.org, y por
-lo tanto se rige por esta política de privacidad. Al visitar el servicio de
-Ichoria Blogs o cualquier blog alojado en nuestros servidores por sus usuarios,
-se recopila automáticamente la siguiente información:
+Al iniciar sesión y entrar como participante a nuestra sala de chat.ichoria.org,
+se recopila la siguiente información:
 
-* Fecha, hora y tipo de tus solicitudes.
+* Nombre de usuario y tripcode
+* Tiempo Unix de la solicitud
+* Dirección IP
 
-Al crear una cuenta de usuario y/o hacer uso de los servicios que Ichoria Blogs
-provee, se recopila cierta información adicional con el fin de proveer
-correctamente el servicio:
+Al enviar un mensaje en la sala de chat o refrescarla con la sesión iniciada,
+se recopila la siguiente información:
+
+* Mensaje que enviaste con nombre y tripcode
+* Tiempo Unix de la solicitud
+* Dirección IP
+
+Al ser baneado del servicio de chat, se recopila la siguiente información:
 
 * Dirección IP
-* Todo el contenido que el usuario decida compartir conscientemente a través
-de su blog
-* Huellas cifradas de las contraseñas (las contraseñas per se, no son ni
-deben ser nunca almacenadas en los servidores)
-* Opcionalmente, una dirección de correo electrónico para recuperar la
-contraseña. El usuario puede optar por no compartir este dato.
-
-Ichoria Blogs es un servicio que requiere registro y como tal, el usuario
-tiene derecho a eliminar su cuenta y sus datos desde el menú de
-configuración si así lo desea.
 
 
 Sakisafe
