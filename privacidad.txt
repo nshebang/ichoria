@@ -1,7 +1,7 @@
 Política de privacidad de Ichoria★org
 ===
 
-Última modificación: 10/julio/2024
+Última modificación: 29/julio/2024
 
 	Al interactuar con los servicios que el proyecto ichoria.org provee,
 es posible que se recopile información sobre ti. Intentamos sólo guardar la
@@ -64,6 +64,28 @@ saki.ichoria.org, la siguiente información es registrada:
 
 Para el servicio de Sakisafe, esos datos se mantendrán registrados por un tiempo
 indefinido.
+
+
+Ichoria.cc / Ichoria Blogs
+---
+Al visitar ichoria.cc o un blog alojado en éste, se recopila la siguiente
+información:
+
+* Agente de usuario, fecha, país y hora de la solicitud
+
+La información anterior se utiliza para que los escritores de los blogs reciban
+información y estadísticas sobre general y agregada sobre su público.
+
+Al registrarte en ichoria.cc, el usuario deberá introducir la siguiente
+información:
+
+* Subdominio, nombre y correo electrónico
+
+Nótese que Ichoria.cc no recopila direcciones IP en crudo, ni contraseñas. Todas
+las contraseñas introducidas por el usuario son pasadas por un algoritmo
+criptográfico irreversible (PBKDF2), de tal forma que el servidor solo almacena
+huellas de las mismas. Bajo ninguna circunstancia se deben almacenar las
+contraseñas en crudo.
 
 
 Sobre la recopilación de IPs
