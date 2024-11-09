@@ -1,0 +1,92 @@
+Términos de servicio de Ichoria★Sakisafe
+===
+
+Última modificación: 9 de noviembre de 2024
+
+	Sakisafe (en adelante, el "servicio" o "Servicio") es la plataforma de
+alojamiento instantáneo de archivos de ichoria.org (en adelante, "Ichoria" o
+"ichoria") localizada en https://saki.ichoria.org. Al hacer uso del servicio,
+aceptas los presentes términos de servicio ("términos").
+
+Autorización de permiso
+---
+Todo el contenido creado por ti subido al servicio de Sakisafe sigue
+siendo tuyo. El usuario mantiene en todo momento los derechos de propiedad
+totales sobre el contenido que sube. No obstante, al momento de subir
+cualquier contenido de tu propiedad o autoría a nuestros servicios, aceptas
+garantizarnos una licencia universal libre de regalías para compartir,
+distribuir, almacenar, eliminar, respaldar, copiar, difundir, comunicar,
+publicar y modificar dicho contenido y los datos asociados a él.  
+
+Tus responsabilidades
+---
+Al usar el servicio de Sakisafe el usuario tiene la obligación de apegarse a 
+las reglas de contenido y a los presentes términos de servicio. El usuario es
+exclusivamente responsable de usar el servicio de acuerdo a la ley aplicable.
+
+Reglas de contenido
+---
+No está permitido utilizar el servicio de Sakisafe para fines ilegales bajo las
+leyes de EEUU. Todo contenido ilegal será rápidamente eliminado y la dirección
+IP del usuario será baneada y reportada. Asímismo, se baneará a cualquier
+usuario al que se descubra utilizando el servicio para actividades ilegales o 
+relacionadas a promover el acoso u hostigamiento a terceros.
+
+El servicio no admite ni tolera contenido para adultos o NSFW excepto con fines
+claramente artísticos o ilustrativos. El "contenido NSFW" incluye pero no se
+limita a pornografía, material sangriento, violento o gráfico y contenido
+conocidamente escandalizante. Cualquier contenido de esta índole será eliminado
+de nuestros servidores y al usuario se le baneará de nuestros servicios.
+
+Uso comercial y hotlinking
+---
+Está permitido distribuir e insertar archivos alojados en Sakisafe a través de
+hotlinking (https://es.wikipedia.org/wiki/Hotlinking) siempre y cuando sea con
+fines exclusivamente personales y sin ánimo de lucro.
+
+No está permitido utilizar el servicio de Sakisafe para fines comerciales. Éstos
+incluyen pero no se limitan a: usar Sakisafe como content delivery network
+(CDNs) de sitios web comerciales o con fines de lucro, hosting de imágenes o 
+archivos para tu negocio / sitio de e-commerce, servicio de streaming de video
+o alojamiento de arte comercial vendido a través de criptomonedas / sistemas de 
+blockchain (NFTs).
+
+Terminación
+---
+El usuario posee la plena libertad de cesar el uso del servicio en cualquier
+momento. La administración de Sakisafe e ichoria.org se reservan el derecho de 
+suspender o terminar el acceso del usuario al servicio en cualquier momento,
+por cualquier motivo y bajo cualquier circunstancia, sin previo aviso.
+
+Descontinuación del servicio
+---
+La administración de ichoria.org y Sakisafe se reservan el pleno derecho de 
+descontinuar el servicio, en cualquier momento y sin previo aviso. Ni la
+administración de ichoria.org, ni los desarrolladores del software, ni Sakisafe
+se encuentran bajo la obligación legal de proveer y mantener el servicio.
+
+Modificaciones a estos Términos
+---
+La administración se reserva el derecho a cambiar los presentes Términos en 
+cualquier momento, sin previo aviso.
+
+Renuncia de garantía
+---
+Este servicio se provee "tal como está", sin garantía de ningún tipo, expresa o
+implícita, incluyendo pero no limitándose a las garantías de comerciabilidad,
+idoneidad para un propósito específico y no infracción. Ni Sakisafe ni
+ichoria.org tienen la obligación legal de proporcionar este servicio, ni
+mantener el servicio que se proporciona.
+
+Bajo ninguna circunstancia la administración ni desarrolladores de Sakisafe
+o ichoria.org
+serán responsables de ningún reclamo, daño u otra responsabilidad, ya sea en una
+acción contractual, agravio o de otra manera, que surja de, fuera de o en
+relación con el servicio.
+
+Contacto
+---
+Es posible contactar a la administración a través de la dirección de correo
+electrónico admin@ichoria.org
+
+Fin de los términos de servicio.
