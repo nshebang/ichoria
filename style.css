@@ -42,6 +42,10 @@ p {
   color: #6cffcd;
 }
 
+.gold {
+  color: #ff9a17;
+}
+
 a:link, a:visited {
   color: #60bdff;
 }
