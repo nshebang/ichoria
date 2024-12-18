@@ -1,0 +1,93 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Liebe, usuarios de ichoria.org:
+
+Su administradora (<nanom@riseup.net>, <nanom@airmail.cc>) se comunica con
+ustedes por medio del presente texto para informarles que el proyecto
+ichoria.org (al menos tal y como existe actualmente) y todos sus servicios
+serán descontinuados en febrero de 2025.
+
+La historia
+- ---
+Ichoria existe desde hace más o menos dos años, primero bajo el dominio
+ichoria.xyz y luego bajo el dominio actual, ichoria.org. Ichoria siempre
+fue un proyecto personal sin ánimo de lucro donde como mucho hubimos dos
+personas trabajando en él. Inicialmente Ichoria era una instancia de Akkoma,
+una red social de microblogging basada en ActivityPub; no obstante, por
+diversas razones todos los servicios que hemos ofrecido históricamente han
+sido poco a poco descontinuados, mayormente porque los resultados no nos
+satisfacen como administración y al final terminamos hallando que simplemente
+no vale la pena el gasto de tiempo y energía en mantener ciertos servicios,
+considerando la vida personal ocupada de cada miembro de la administración
+fuera del proyecto.
+
+Las causas
+- ---
+No tengo mucho qué decir al respecto, relativamente hablando. Actualmente
+solo su servidora es parte  de la administración, por lo que debo admitir que
+mantener los proyectos de Ichoria consumen mucho de mi tiempo, y actualmente
+ya no hallo incentivos para seguir trabajando en los servicios a costa de
+cierto tiempo que podría emplear en  actividades laborales, académicas o
+personales que ya de por sí demandan la mayor parte de mi tiempo.
+
+Creo que lo que más disfruto de Ichoria como un proyecto personal alejado de mi
+preparación profesional formal es programar, y hasta cierto punto la parte de
+administración de sistemas también. Pero he llegado a un punto donde considero 
+que el tiempo invertido en este proyecto no ha llegado a ser de mi satisfacción.
+en parte por la falta de interés del público y mayormente porque simplemente hay
+actividades que actualmente hallo más interesantes y satisfactorias. Además,
+debemos considerar que el proyecto Ichoria es un proyecto que cuesta: no 
+demasiado, de hecho actualmente se tiene el presupuesto para mantenerlo por 
+al menos dos años más, pero francamente preferiría invertir ese dinero en
+otras actividades más relevantes para mi actualmente. Por ejemplo, he pensado
+en trabajar en un MMORPG o un sitio web de filosofía con un enfoque totalmente
+diferente al del chat o el BBS.
+
+También debo admitir que moderar comunidades no es lo mío. Y en particular, las 
+comunidades de discusión anónimas tienden a ser sumamente tediosas de moderar
+debido a la enorme cantidad de usuarios infantiles o que sencillamente buscan
+hacer uso de internet para agraviar a terceros como una forma de liberar
+frustraciones personales. Aunque a pesar de todo, considero que he hecho un
+buen trabajo en mantener el que hasta ahora es el foro anónimo de discusión más
+civilizado, tranquilo y ordenado que hay en la esfera hispanohablante.
+
+El BBS
+- ---
+A pesar de que mi interés en mantener el proyecto ha decaído, soy capaz de
+apreciar lo que se logró. Felicito a todos los usuarios, muchos o pocos de la
+comunidad del BBS por haber sido la mayoría gente civilizada y tranquila que 
+ha hecho aportes de buena calidad que van más allá del sentimentalismo personal,
+la discordia innecesaria y la agresión a terceros.
+
+Casi no tuvimos bots de spam comparado con otros foros anónimos desde que
+implementamos DNSBL; de hecho, el poco spam que hemos recibido fue posteado
+en su mayoría de forma manual por usuarios maliciosos comunes que pueden ser 
+lidiados con relativa facilidad con sanciones y trampas típicas.
+
+El blog
+- ---
+Hubo algunos usuarios que crearon blogs bastante novedosos y a todos se les 
+agradece por sus contribuciones. Desafortunadamente, el servicio de blogs
+resultaba muy tedioso de mantener y costoso en cuanto a recursos para la
+poca cantidad de usuarios que tenía.
+
+- ---
+
+Por último, simplemente me gustaría agradecer a quienes participaron en el 
+proyecto (usuarios y administración) y desearles un excelente inicio de año.
+A la comunidad y administración de vampiros.org se le agradece especialmente 
+por su colaboración y amistad con el proyecto también. No sé si retomaré el
+Ichoria después, o si les informaré sobre otro proyecto nuevo; o si
+sencillamente retomaré mi vida con relativa o total discreción, pero mis
+mejores deseos van todos ustedes.
+
+- - La administradora de ichoria.org
+
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQRiHE8Tza3hHaQBSkDuXU0lbqgTJAUCZ2KxVAAKCRDuXU0lbqgT
+JKUCAP9VCn5FNmrmeTWEXnYEP05ucU5GFeur1GkO2mgnFfGdKgEA4/480Zh2z2x/
+2M8J3gN36H+87TmbSzYgKyoy363JnQU=
+=6MuO
+-----END PGP SIGNATURE-----
